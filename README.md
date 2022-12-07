@@ -4,7 +4,8 @@
 -  I've also learned basics of java and I’m currently learning DSA in java, both at Coding Ninjas
 -  I’m looking to work on open source projects and get more experience.
 -  How to reach me
--  
+-  in: https://www.linkedin.com/in/val-didar-singh-b220871b1/
+-  twitter: https://twitter.com/val_didar
 
 <!---
 valdidar/valdidar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
