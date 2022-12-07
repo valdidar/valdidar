@@ -1,7 +1,7 @@
 -  Hi, I’m @valdidar
 -  I’m interested to take part in exiting projects
 -  I've learned full stack web development at Smartknower and did two projects there.
--  I’m currently learning DSA in java on Coding Ninja
+-  I've also learned basics of java and I’m currently learning DSA in java, both at Coding Ninjas
 -  I’m looking to collaborate on ...
 -  How to reach me ...
 
