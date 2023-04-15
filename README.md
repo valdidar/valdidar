@@ -1,10 +1,11 @@
 -  Hi, I’m @valdidar
 -  I’m interested to take part in exiting projects
 -  I've learned full stack web development at Smartknower and did two projects there.
--  I've also learned basics of java and I’m currently learning DSA in java, both at Coding Ninjas
+-  I have learned DSA in java at Coding Ninjas
 -  I've made some extension to practice my javascript skills
--  I'm working on a new clustering algorithm and trying to automate  crossposting posts from reddit to instagram. 
--  I’m looking to work on open source projects and get more experience.
+-  I'm working on a new clustering algorithm 
+-  I'm also trying to automate crossposting posts from reddit to instagram using python 
+-  I’m looking to work on projects related to deep learning and get more experience.
 -  How to reach me
 -  in: https://www.linkedin.com/in/val-didar-singh-b220871b1/
 -  twitter: https://twitter.com/val_didar
