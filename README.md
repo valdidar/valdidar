@@ -3,7 +3,7 @@
 -  I've learned full stack web development at Smartknower and did two projects there.
 -  I have learned DSA in java at Coding Ninjas
 -  I've made some extension to practice my javascript skills
--  I'm working on a new clustering algorithm 
+-  I'm was working on a new clustering algorithm, but found out, the idea wad not new
 -  I'm also trying to automate crossposting posts from reddit to instagram using python 
 -  I’m looking to work on projects related to deep learning and get more experience.
 -  How to reach me
