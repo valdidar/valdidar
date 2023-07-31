@@ -3,9 +3,9 @@
 -  I've learned full stack web development at Smartknower and did two projects there.
 -  I have learned DSA in java at Coding Ninjas
 -  I've made some extension to practice my javascript skills
--  I'm was working on a new clustering algorithm, but found out, the idea was already implimented
--  I'm also trying to automate crossposting posts from reddit to instagram using python 
--  I’m looking to work on projects related to deep learning and get more experience.
+-  I'm also to automate crossposting posts from reddit to instagram using python
+-  I've completed 2 months internship @ UST GLobal where i worked on this project
+-  project: https://github.com/valdidar/template_generation_website
 -  How to reach me
 -  in: https://www.linkedin.com/in/val-didar-singh-b220871b1/
 -  twitter: https://twitter.com/val_didar
