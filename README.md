@@ -1,18 +1,25 @@
--  Hi, I’m @valdidar
--  I’m interested to take part in exiting projects
--  I've learned full stack web development at Smartknower and did two projects there
--  I have learned DSA in java at Coding Ninjas and OOPS in java as a part of optional subjects in BITS Pilani
--  I've made some google chrome extension to practice my javascript skills
--  I've also automated posting content from reddit to instagram using python using both of their APIs
--  I've completed 2 months internship @ UST GLobal where i worked on template automation project
--  Project: https://github.com/valdidar/template_generation_website
--  I've made 2 websites from scratch for 2 different clients, Hindi Press Club and Chandigarh Arbitrations and Consultants, both actively being used by them
--  HPC Website: https://valdidar.github.io/hindipressclub/index.html
--  Chandigarh Arbitration Website: https://valdidar.github.io/chandigarharbitration/
--  I'm also very comfirtable with Machine learning and Deep learning, as i have completed both of those subjects as a part of optional subjects in BITS Pilani
--  How to reach me
--  ln: https://www.linkedin.com/in/val-didar-singh-b220871b1/
--  twitter: https://twitter.com/val_didar
+# Hello, I'm @valdidar - Passionate Software Developer and AI/ML Enthusiast 👨‍💻🚀
+
+Welcome to my GitHub! I thrive on engaging with exciting projects that challenge and expand my skills. Here's a glimpse into what I bring to the table:
+
+## Skills Snapshot 🛠️
+- Full Stack Web Development: Mastered during my comprehensive training at Smartknower, where I successfully completed two impactful projects.
+- Data Structures and Algorithms: Acquired expertise in Java through Coding Ninjas, complemented by Optional Subjects at BITS Pilani.
+- Chrome Extension Wizardry: Practiced and honed my JavaScript skills by creating Google Chrome extensions.
+- Automation Maestro: Developed a Python script automating content posting from Reddit to Instagram, showcasing my versatility with APIs.
+- Template Automation Prodigy: Contributed to a template automation project during my 2-month internship at UST Global.
+- Web Design Guru: Crafted two functional websites from scratch for Hindi Press Club and Chandigarh Arbitrations and Consultants. Check them out:
+  - Hindi Press Club Website: [HPC](https://valdidar.github.io/hindipressclub/index.html)
+  - Chandigarh Arbitration Website: [Chandigarh Arbitration](https://valdidar.github.io/chandigarharbitration/)
+
+## AI/ML Dabbler 🤖
+- Explored the realms of Machine Learning and Deep Learning, courtesy of BITS Pilani's optional subjects.
+
+## Let's Connect! 🌐
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/val-didar-singh-b220871b1/)
+- Twitter: [Follow me](https://twitter.com/val_didar)
+
+I'm excited about the possibility of contributing to innovative projects and exploring new opportunities in software development, machine learning, and artificial intelligence. Feel free to reach out, and let's create something amazing together! 🚀🌟
 
 <!---
 valdidar/valdidar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
